@@ -1,6 +1,6 @@
 
 python validate.py /ssd/zhoudaquan/imagenet/ILSVRC/Data/CLS-LOC/ \
---model efficientnet_b0_dq_ori \
+--model efficientnet_b0_dq \
 --lr 0.12 -b 64 \
 --drop 0.2 \
 --img-size 224 \
